@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "4ADEDFBF-0F0D-48B3-8C92-566E41B0BD78",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "MarioKartTests",
+        "name" : "MarioKartTests"
+      }
+    }
+  ],
+  "version" : 1
+}

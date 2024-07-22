@@ -1,0 +1,26 @@
+{
+  "configurations" : [
+    {
+      "id" : "5BFE16C1-83F2-4619-902C-C4D536363F71",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testExecutionOrdering" : "random",
+    "testRepetitionMode" : "fixedIterations",
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "MarioKartTests",
+        "name" : "MarioKartTests"
+      }
+    }
+  ],
+  "version" : 1
+}
